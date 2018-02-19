@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval_images</folder>
+	<filename>59.jpg</filename>
+	<path>/home/bartek/Workspace/goats/data/eval_images/59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>56</ymin>
+			<xmax>269</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

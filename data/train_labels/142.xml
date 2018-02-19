@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>142.jpg</filename>
+	<path>/home/bartek/Workspace/goats/data/train_images/142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>923</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>81</ymin>
+			<xmax>733</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>
