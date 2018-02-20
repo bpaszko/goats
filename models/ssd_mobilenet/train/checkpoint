@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/bartek/Workspace/goats/models/ssd_mobilenet/train/model.ckpt-7393"
+all_model_checkpoint_paths: "/home/bartek/Workspace/goats/models/ssd_mobilenet/train/model.ckpt-1480"
+all_model_checkpoint_paths: "/home/bartek/Workspace/goats/models/ssd_mobilenet/train/model.ckpt-2959"
+all_model_checkpoint_paths: "/home/bartek/Workspace/goats/models/ssd_mobilenet/train/model.ckpt-4439"
+all_model_checkpoint_paths: "/home/bartek/Workspace/goats/models/ssd_mobilenet/train/model.ckpt-5918"
+all_model_checkpoint_paths: "/home/bartek/Workspace/goats/models/ssd_mobilenet/train/model.ckpt-7393"
